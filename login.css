@@ -1,0 +1,30 @@
+#account{
+	position: absolute;
+	top: 20%;
+	left: 10%;
+}
+
+#password{
+	position: absolute;
+	top: 35%;
+	left: 10%;
+}
+
+#{
+	position: absolute;
+	top:55%;
+	left:10%;
+
+}
+
+#register{
+	position: absolute;
+	top:65%;
+	left:10%;
+
+}
+
+input[id="a"] {
+    width: 150%;
+    height: 10%;
+}
